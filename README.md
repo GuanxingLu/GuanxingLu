@@ -1,6 +1,6 @@
 # Hi there, I'm Guanxing Lu! 👋
 
-- 🤘🏽 I'm passionate about *helping agent 🤖 teach themselves*.
+- 🤘🏽 I'm passionate about *helping agents 🤖 teach themselves*.
 
 ## Connect with Me
 - [X](https://x.com/gxlu02)
