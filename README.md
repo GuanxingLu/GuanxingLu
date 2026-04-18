@@ -1,7 +1,6 @@
 # Hi there, I'm Guanxing Lu! 👋
 
-- 🔭 I'm currently working on **general robotic manipulation**.
-- 🤘🏽 I'm passionate about *helping robots 🤖 teach themselves*.
+- 🤘🏽 I'm passionate about *helping agent 🤖 teach themselves*.
 
 ## Connect with Me
 - [X](https://x.com/gxlu02)
